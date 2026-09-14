@@ -1,0 +1,15 @@
+{
+	"name": "adf-car-pro1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f79f0a5d-6d72-4f2a-b081-cebfb6a698d4",
+		"tenantId": "e2d8d966-3a15-4988-a220-213c333939e2"
+	}
+}
